@@ -1,3 +1,2 @@
-a.tex:
-:wq
+a.txt
 
